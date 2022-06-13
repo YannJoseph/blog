@@ -1,7 +1,7 @@
 
 import React from 'react'
-import Github from '/Users/yannjo/blog/src/images/github.png'
-import LinkedIn from '/Users/yannjo/blog/src/images/linkedIn.jpeg'
+import Github from '../images/github.png'
+import LinkedIn from '../images/linkedIn.jpeg'
 
 
 function Contact() {
